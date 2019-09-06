@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, "Times New Roman", sans-serif; 
+    font-size: 16px;
+    background-color: #d6d6d6;
+}
+
+#resume {
+    margin: 0 0 0 100px;
+}
+
+#leftside {
+    
+	width: 29%;
+    margin-right: 15px;
+    float:left;
+}	
+
+#rightside {
+  
+    width:69%;
+    float: right;
+    margin-left: 15px;
+}
+h3{
+	color : blue;
+}
